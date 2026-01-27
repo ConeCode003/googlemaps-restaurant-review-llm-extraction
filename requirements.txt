@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+matplotlib
+seaborn
+numpy
+pydantic
+langchain
+langchain-groq
+langchain-community
+scikit-learn
+notebook

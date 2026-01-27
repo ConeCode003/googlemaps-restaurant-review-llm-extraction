@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# IDE - DataSpell / PyCharm / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Data files (uncomment if you don't want to commit your dataset)
+# data/
+# *.csv
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Project specific
+# Add any custom files/folders you want to ignore here
