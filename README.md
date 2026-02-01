@@ -59,8 +59,11 @@ jupyter notebook main.ipynb
 
 The dataset contains Google Maps-style restaurant reviews with:
 - Business name
+- Author name
+- Photo
 - Review text
 - Rating (1-5 stars)
+- Rating category
 
 Source: [Kaggle - Google Maps Restaurant Reviews](https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews)
 
