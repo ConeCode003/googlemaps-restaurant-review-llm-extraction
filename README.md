@@ -73,7 +73,7 @@ Source: [Kaggle - Google Maps Restaurant Reviews](https://www.kaggle.com/dataset
 
 - Reviews are filtered to remove very short texts (< 10th percentile) to ensure quality extraction.
 - LLM successfully extracts 6 aspect categories with high granularity.
-- **Human Rating Prediction (Accuracy ~67%)**: Proves that extracted text features are strong predictors of actual guest satisfaction.
+- **Human Rating Prediction (Accuracy ~58.3%)**: Proves that extracted text features are strong predictors of actual guest satisfaction.
 - **LLM Self-Consistency (Accuracy ~55%)**: Reveals that LLM sentiment is more nuanced than simple feature counting, often weighing specific critical issues (e.g., hygiene) more heavily than general praise.
 
 ## License
